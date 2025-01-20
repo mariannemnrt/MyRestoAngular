@@ -1,0 +1,39 @@
+/* You can add global styles to this file, and also import other style files */
+/*réinitialiser les paramètres par défaut */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-size:50px;
+  
+  font-family: 'Kunstler Script'
+
+}
+
+footer {
+ 
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  background-color: brown;
+  color: yellow;
+  text-align: center;
+  padding: 10px;
+}
+
+header {
+ 
+  background-color: brown;
+  color: yellow;
+  padding: 10px;
+}
+
+.header-align {
+  display: flex;
+  justify-content: space-evenly;
+ 
+  align-items: center;
+  
+  gap: 10px;
+}
