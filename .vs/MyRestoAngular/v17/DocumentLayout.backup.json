@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\maria\\source\\repos\\MyRestoAngular\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4A335009-5C85-47C2-A20E-94BB9A6F5995}|MyRestoAngular.esproj|c:\\users\\maria\\source\\repos\\myrestoangular\\src\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{4A335009-5C85-47C2-A20E-94BB9A6F5995}|MyRestoAngular.esproj|solutionrelative:src\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4A335009-5C85-47C2-A20E-94BB9A6F5995}|MyRestoAngular.esproj|c:\\users\\maria\\source\\repos\\myrestoangular\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4A335009-5C85-47C2-A20E-94BB9A6F5995}|MyRestoAngular.esproj|solutionrelative:src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A335009-5C85-47C2-A20E-94BB9A6F5995}|MyRestoAngular.esproj|c:\\users\\maria\\source\\repos\\myrestoangular\\src\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4A335009-5C85-47C2-A20E-94BB9A6F5995}|MyRestoAngular.esproj|solutionrelative:src\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,20 +30,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "styles.css",
               "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\MyRestoAngular\\src\\styles.css",
               "RelativeDocumentMoniker": "src\\styles.css",
-              "ToolTip": "C:\\Users\\maria\\source\\repos\\MyRestoAngular\\src\\styles.css*",
-              "RelativeToolTip": "src\\styles.css*",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAYAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\maria\\source\\repos\\MyRestoAngular\\src\\styles.css",
+              "RelativeToolTip": "src\\styles.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-01-20T16:02:17.872Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-20T16:02:17.872Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "index.html",
               "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\MyRestoAngular\\src\\index.html",
               "RelativeDocumentMoniker": "src\\index.html",
