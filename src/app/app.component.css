@@ -1,0 +1,29 @@
+h1 {
+  text-align: center;
+  justify-content: center;
+}
+
+#container{
+  display : flex;
+  flex-direction: row;
+ 
+
+}
+#pizza {
+  size: 200px;
+
+}
+
+#image{
+  flex:1;
+  gap:5px
+  
+  
+
+}
+#description{
+  flex: 1;
+  justify-content: center;
+  text-align: center;
+  color:rgb(14, 17, 155);
+}

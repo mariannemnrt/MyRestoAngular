@@ -1,29 +1,15 @@
 /* You can add global styles to this file, and also import other style files */
 /*réinitialiser les paramètres par défaut */
-
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-  font-size:50px;
+@media screen and (min-width: 600px) {
   
-  font-family: 'Kunstler Script'
+  * {
+   
+    font-size: 2em;
+    
+  }
 
 }
-
-footer {
- 
-  position: fixed;
-  bottom: 0;
-  width: 100%;
-  background-color: black;
-  color: lightslategrey;
-  text-align: center;
-  padding: 10px;
-}
-
 header {
- 
   background-color: black;
   color: lightslategrey;
   padding: 10px;
@@ -36,4 +22,21 @@ header {
   align-items: center;
   
   gap: 10px;
+}
+footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  background-color: black;
+  color: lightslategrey;
+  text-align: center;
+  padding: 10px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Kunstler Script';
+  font-size: 1.2em;
 }
