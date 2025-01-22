@@ -16,16 +16,16 @@ footer {
   position: fixed;
   bottom: 0;
   width: 100%;
-  background-color: brown;
-  color: yellow;
+  background-color: black;
+  color: lightslategrey;
   text-align: center;
   padding: 10px;
 }
 
 header {
  
-  background-color: brown;
-  color: yellow;
+  background-color: black;
+  color: lightslategrey;
   padding: 10px;
 }
 
