@@ -1,6 +1,13 @@
 h1 {
   text-align: center;
   justify-content: center;
+  font-size: 5rem;
+}
+
+#title{
+  text-align: center;
+  justify-content: center;
+  font-size:3rem;
 }
 
 #container{
@@ -10,7 +17,7 @@ h1 {
 
 }
 #pizza {
-  size: 200px;
+  width: 100%;
 
 }
 
